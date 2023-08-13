@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/My-react-dashoard/static/css/main.f26992c7.css",
+    "main.css": "/My-react-dashoard/static/css/main.92d432d6.css",
     "main.js": "/My-react-dashoard/static/js/main.8a380360.js",
     "static/js/787.db536ba0.chunk.js": "/My-react-dashoard/static/js/787.db536ba0.chunk.js",
     "index.html": "/My-react-dashoard/index.html",
-    "main.f26992c7.css.map": "/My-react-dashoard/static/css/main.f26992c7.css.map",
+    "main.92d432d6.css.map": "/My-react-dashoard/static/css/main.92d432d6.css.map",
     "main.8a380360.js.map": "/My-react-dashoard/static/js/main.8a380360.js.map",
     "787.db536ba0.chunk.js.map": "/My-react-dashoard/static/js/787.db536ba0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26992c7.css",
+    "static/css/main.92d432d6.css",
     "static/js/main.8a380360.js"
   ]
 }
